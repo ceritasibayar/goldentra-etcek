@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://goldentra-etcek.pages.dev/sitemap.xml
